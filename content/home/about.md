@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Complex Networks",
+    "Deep Learning",
+    "Social Dynamics",
+    "Behaviour Modelling"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Ph.D. in Computer Science"
+  institution = "King's College, London, U.K."
+  year = "2018-19 (expected)"
+
+[[education.courses]]
+  course = "Master of Sciences (M.S) with emphasis on Signals Processing and Networks"
+  institution = "University of California, Santa Barbara, C.A. , U.S.A"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "B.Eng, Electronics Engineering"
+  institution = "University of Pune, India"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a King's India scholar and a Ph.D. candidate at King's College London. I am working towards my Ph.D. in computer science at department of Natural and Mathematical Sciences, King's college, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. My primary interests are complex networks and their emergent behaviours. I am also interested in understanding complex structures in human interactions and in social media, using representation learning. My current projects deal with affective analysis of images, engagement analysis in social media and notions of support in complex networks.
