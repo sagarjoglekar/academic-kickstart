@@ -1,6 +1,6 @@
 +++
 title = "SocInfo17"
-date = 2018-04-30T08:44:18+01:00
+date = 2017-09-30T08:44:18+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

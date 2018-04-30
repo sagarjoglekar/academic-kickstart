@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "sagarjoglekar.github.io/"
+baseurl = "https://sagarjoglekar.github.io/"
 
 # Title of your site
 title = "(╯°□°)╯︵ ┻━┻"
@@ -268,19 +268,24 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "News"
-  url = "#posts"
-  weight = 4
-
-[[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 3
 
 [[menu.main]]
+  name = "News"
+  url = "#posts"
+  weight = 4
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 5
+
+[[menu.main]]
+  name = "Resume"
+  url = "/data/sagarj_cv2.pdf"
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
