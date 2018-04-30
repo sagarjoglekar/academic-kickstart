@@ -14,7 +14,7 @@ summary = "Buildings and neighbourhoods speak. They speak of egalitarianism or e
 image_preview = "explanation-2000.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://facelift.datadissonance.org/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -26,6 +26,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = ""
+external_link = "http://facelift.datadissonance.org/"
 
 +++

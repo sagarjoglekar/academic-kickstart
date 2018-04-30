@@ -14,7 +14,7 @@ summary = "The project looks at how hyper-partisan news sources in the U.S. inte
 image_preview = "UpstreamGraph4.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://arxiv.org/pdf/1803.03576.pdf"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
