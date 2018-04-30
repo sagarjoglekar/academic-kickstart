@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -268,19 +268,19 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Updates"
-  url = "#updates"
-  weight = 3
+  name = "News"
+  url = "#posts"
+  weight = 4
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
