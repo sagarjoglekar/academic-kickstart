@@ -227,6 +227,11 @@ enableGitInfo = false
   #  icon = "envelope"
   #  icon_pack = "fa"
   #  link = "mailto:sagar.joglekar@example.org"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-8388-9137/"
   
   [[params.social]]
     icon = "linkedin"
