@@ -228,10 +228,10 @@ enableGitInfo = false
   #  icon_pack = "fa"
   #  link = "mailto:sagar.joglekar@example.org"
 
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "https://orcid.org/0000-0002-8388-9137/"
+  #[[params.social]]
+  #  icon = "orcid"
+  #  icon_pack = "ai"
+  #  link = "https://orcid.org/0000-0002-8388-9137/"
   
   [[params.social]]
     icon = "linkedin"
@@ -268,18 +268,18 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 2
-
-[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "News"
   url = "#posts"
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
   weight = 4
 
 [[menu.main]]

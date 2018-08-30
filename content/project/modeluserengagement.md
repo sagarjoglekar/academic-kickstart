@@ -5,7 +5,7 @@ draft = false
 weight = 10
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["machine-learning","Social Networks"]
 
 # Project summary to display on homepage.
 summary = "The up and coming formats of micro videos and stories, have allowed a new form of expression for social media users. The format however competes with the other contemporary formats of simple images and videos. The aim was to understand what sets this new format apart, and predict engagement patters using computational methods."
