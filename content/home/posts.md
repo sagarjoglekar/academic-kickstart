@@ -2,15 +2,11 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "News"
 subtitle = ""
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-view = 0
 
 # Order that this section will appear in.
 weight = 4
