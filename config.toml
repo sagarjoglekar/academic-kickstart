@@ -109,10 +109,10 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -203,7 +203,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 1
 
   # Social/Academic Networking
   #
@@ -273,8 +273,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "News"
-  url = "#posts"
+  name = "Updates"
+  url = "#post"
   weight = 3
 
 [[menu.main]]
