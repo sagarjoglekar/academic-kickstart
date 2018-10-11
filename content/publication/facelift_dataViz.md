@@ -44,7 +44,7 @@ tags = ["Deep learning", "Data Visualization", "Urban Informatics"]
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/tkauer/facelift"
+url_code = ""
 url_dataset = ""
 url_project = "http://www.goodcitylife.org/facelift/"
 url_slides = ""
