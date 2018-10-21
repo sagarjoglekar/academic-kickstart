@@ -14,7 +14,7 @@ summary = "Buildings and neighbourhoods speak. They speak of egalitarianism or e
 image_preview = "explanation-2000.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www.goodcitylife.org/facelift/"
+external_link = "http://facelift.datadissonance.org/"
 
 # Does the project detail page use math formatting?
 math = false
