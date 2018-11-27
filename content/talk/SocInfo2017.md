@@ -1,26 +1,26 @@
 +++
-title = "CTR_workshop"
-date = 2018-04-30T09:00:00+01:00  # Schedule page publish date.
+title = "SocInfo2017"
+date = 2017-09-13T16:45:53Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-05-04T14:00:00+01:00
-time_end = 2018-05-04T14:30:00+01:00
+time_start = 2017-09-13T09:45:53Z
+#time_end = 2018-11-27T16:45:53Z
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Center for Telecommunications Research Workshop 2018"
-event_url = ""
+event = "9th Conference on Social Informatics"
+event_url = "https://socinfo2017.oii.ox.ac.uk/"
 
 # Location of event.
-location = "Bush House 5.01(S), 30 Aldwych, London, WC2B 4BG, United Kingdom"
+location = ""
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = 0
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -33,8 +33,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_slides = "https://www.slideshare.net/secret/LUCeLiDBGhhfN8"
+url_pdf = "data/SocInfo2017.pdf"
+url_slides = "https://www.slideshare.net/secret/t8K4jJhCJ4vs3q"
 url_video = ""
 url_code = ""
 
