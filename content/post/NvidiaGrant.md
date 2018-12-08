@@ -1,5 +1,5 @@
 +++
-title = "Nvidia GPU Grant"
+title = "Netsys lab's deep learning capability upgraded through Nvidia GPU Grant"
 date = 2018-07-20T12:14:46+01:00
 draft = false
 

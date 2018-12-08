@@ -1,5 +1,5 @@
 +++
-title = "Modelling User engagment with micro-videos based social media"
+title = "Modelling User engagment with micro-videos"
 date = 2018-04-29T12:50:16+01:00
 draft = false
 weight = 10

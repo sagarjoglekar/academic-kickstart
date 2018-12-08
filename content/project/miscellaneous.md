@@ -9,7 +9,7 @@ weight = 1000
 tags = ["Computer Vision"]
 
 # Project summary to display on homepage.
-summary = "Prior to the Ph.D. , I worked with Infosys Labs on miscellaneous research projects dealing with Multimedia security and media processing enabled smart delivery systems for digital content."
+summary = "Some miscellanious projects on Digital convergence, DRM, steganography, Computervision and networks"
 
 # Optional image to display on homepage.
 image_preview = ""

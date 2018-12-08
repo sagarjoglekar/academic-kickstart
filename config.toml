@@ -6,7 +6,7 @@
 baseurl = "https://sagarjoglekar.github.io/"
 
 # Title of your site
-title = "(╯°□°)╯︵ ┻━┻"
+title = " (⊙_☉)  "
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,11 +51,11 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Your details.
   name = "Sagar Joglekar"
-  role = "Ph.D. Fellow, King's India Scholar"
+  role = "Ph.D. Candidate, King's India Scholar"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -253,6 +253,11 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://github.com/sagarjoglekar"
 
+  [[params.social]]
+    icon = "medium"
+    icon_pack = "fa"
+    link = "https://medium.com/@SagarJoglekar"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -273,24 +278,32 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Updates"
-  url = "#post"
+  name = "Research Projects"
+  url = "#projects"
   weight = 3
 
+
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "News"
+  url = "#posts"
   weight = 4
+
+
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
+
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Resume"
   url = "/data/sagarj_cv2.pdf"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]

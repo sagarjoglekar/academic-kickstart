@@ -1,6 +1,6 @@
 +++
-title = "EPSRC Pioneers Competition"
-date = 2018-08-28T12:14:56+01:00
+title = "Facelift makes it to top 16 Ph.D. projects across the U.K. @ EPSRC Pioneers Competition"
+date = 2018-11-13T12:14:56+01:00
 draft = false
 
 # Tags and categories
@@ -19,4 +19,4 @@ caption = ""
 preview = true
 
 +++
-Our project **FaceLift: A deeplearning pipeline to beautify urban space**, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K.
+Our project **FaceLift: A deeplearning pipeline to beautify urban spaces**, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K. It stands in the top 4 projects among the creative computing category. **Please find the full announcement [here](https://epsrc.ukri.org/newsevents/news/connectednationpioneers18/)**.
