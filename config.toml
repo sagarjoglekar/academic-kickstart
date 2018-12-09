@@ -301,7 +301,7 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
-  name = "Resume"
+  name = "CV"
   url = "/data/sagarj_cv2.pdf"
   weight = 7
 
