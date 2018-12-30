@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -225,7 +225,7 @@ enableGitInfo = false
 
   #[[params.social]]
   #  icon = "envelope"
-  #  icon_pack = "fa"
+  #  icon_pack = "fas"
   #  link = "mailto:sagar.joglekar@example.org"
 
   #[[params.social]]
@@ -235,12 +235,12 @@ enableGitInfo = false
   
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/sagarjoglekar/"
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/SagarJoglekar"
 
   [[params.social]]
@@ -250,12 +250,12 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://github.com/sagarjoglekar"
 
   [[params.social]]
     icon = "medium"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://medium.com/@SagarJoglekar"
 
 
