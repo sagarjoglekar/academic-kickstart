@@ -14,7 +14,7 @@ categories = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "https://epsrc.ukri.org/epsrc/cache/file/5A93909D-DCBA-4EFE-8AF57C0E5722CBD3_featuretwocolumnwide.jpg"
+image = ""
 caption = ""
 preview = true
 
