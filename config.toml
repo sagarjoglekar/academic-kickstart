@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "King's College, London", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "sagar4.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait_sagar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sagar[dot]joglekar[at]kcl[dot]ac[dot]uk"
   address = "Bush House 5.07(N), 30 Aldwych, London, WC2B 4BG, United Kingdom"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
