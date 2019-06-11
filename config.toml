@@ -6,7 +6,7 @@
 baseurl = "https://sagarjoglekar.github.io/"
 
 # Title of your site
-title = " (⊙_☉)  "
+title = " (☉_☉)  "
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Sagar Joglekar"
-  role = "Ph.D. Candidate, King's India Scholar"
+  role = "Research Scientist, Ph.D. Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "King's College, London", url = "" } ]
+  organizations = [{ name = "Nokia Bell Labs, Cambridge", url = "https://www.bell-labs.com/connect/global-locations/cambridge-uk/" } , { name = "King's College, London", url = "https://www.kcl.ac.uk/nms/depts/informatics" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait_sagar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

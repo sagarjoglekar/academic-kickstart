@@ -36,8 +36,7 @@ weight = 1
 
 # Biography
 
-I am a King's India scholar and a Ph.D. candidate at King's College London. I am working towards my Ph.D. in computer science at Department Informatics, <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx"> King's College London </a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>.
-<p> 
-My primary interests are complex networks and quantifying their emergent behaviours using the up and coming representation learning methods. My current projects deal with affective analysis of images for urban informatics, quantificaiton of engagement metrics in social media and quantification of notions of support in online communities.
+I am a King's India scholar and a Ph.D. candidate at King's College London. I am working towards my Ph.D. in computer science at Department Informatics, <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx"> King's College London </a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. I am also a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>.
+<p>My primary interests are complex networks and quantifying their emergent behaviours using the up and coming representation learning methods. My current projects deal with affective analysis of images and text for urban informatics, data driven measurements of social phenomenon and quantification of affective dimensions in online interactions.
 <p> 
 I have graduated as Masters of Science (M.S.) from University of California, Santa Barbara with a double major in Signals Processing and Networks, and a Bachelors of Engineering (B.Eng) in Electronics engineering from University of Pune, India.
