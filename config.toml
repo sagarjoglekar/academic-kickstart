@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://sagarjoglekar.github.io/"
+baseurl = "https://sagarjoglekar.com/"
 
 # Title of your site
 title = " (☉_☉)  "
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -203,7 +203,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 1
+    publication_format = 2
 
   # Social/Academic Networking
   #
