@@ -54,12 +54,12 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Sagar Joglekar"
-  role = "Research Scientist, Ph.D. Candidate"
+  name = "Sagar Joglekar, Ph.D."
+  role = "Research Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{ name = "Nokia Bell Labs, Cambridge", url = "https://www.bell-labs.com/connect/global-locations/cambridge-uk/" } , { name = "King's College, London", url = "https://www.kcl.ac.uk/nms/depts/informatics" } ]
+  organizations = [{ name = "Nokia Bell Labs, Cambridge", url = "https://www.bell-labs.com/connect/global-locations/cambridge-uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait_sagar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

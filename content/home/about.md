@@ -11,9 +11,9 @@ weight = 1
 [interests]
   interests = [
     "Complex Networks",
-    "Representation Learning",
+    "Computer Vision",
     "Computational Social Dynamics",
-    "Behaviour Modelling"
+    "Urban Informatics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,8 +37,8 @@ weight = 1
 # Biography
 I am a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>.
 <p>
-My primary interests are complex networks and quantifying their emergent behaviours using the up and coming representation learning methods. My current projects deal with affective analysis of images and text for urban informatics, data driven measurements of social phenomenon and quantification of affective dimensions in online interactions.
+I am mainly interested in projects that deal with quantification of human processes from web scale data using methods from complex networks, machine learning and computer vision. 
 <p> 
-I was a King's India scholar at King's College London, and I worked towards my Ph.D. in computer science at Department Informatics, <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx"> King's College London </a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. 
+I was a King's India scholar at King's College London, where I worked on my Ph.D. in computer science at the <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx">Department of Informatics</a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. 
 <p>
-I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune - India majoring in Electronics engineering .
+I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara - USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune - India, majoring in Electronics engineering .
